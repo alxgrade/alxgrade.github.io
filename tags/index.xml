@@ -2,9 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alex Grade</title>
-    <link>https://alxgrade.github.io/tags/</link>
+    <link>https://alxgrade.com/tags/</link>
     <description>Recent content in Tags on Alex Grade</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://alxgrade.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 07 Jul 2021 08:58:05 +0300</lastBuildDate><atom:link href="https://alxgrade.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gamedev</title>
+      <link>https://alxgrade.com/tags/gamedev/</link>
+      <pubDate>Wed, 07 Jul 2021 08:58:05 +0300</pubDate>
+      
+      <guid>https://alxgrade.com/tags/gamedev/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
