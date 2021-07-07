@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Alex Grade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jul 2021 08:58:05 +0300</lastBuildDate><atom:link href="https://alxgrade.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jul 2021 09:25:49 +0300</lastBuildDate><atom:link href="https://alxgrade.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second post</title>
+      <link>https://alxgrade.com/posts/second/</link>
+      <pubDate>Wed, 07 Jul 2021 09:25:49 +0300</pubDate>
+      
+      <guid>https://alxgrade.com/posts/second/</guid>
+      <description>Header 1Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
     <item>
       <title>This is a test post</title>
       <link>https://alxgrade.com/posts/testpost/</link>
