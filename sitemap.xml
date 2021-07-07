@@ -3,11 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alxgrade.com/</loc>
+    <lastmod>2021-07-07T09:25:49+03:00</lastmod>
+  </url><url>
+    <loc>https://alxgrade.com/posts/</loc>
+    <lastmod>2021-07-07T09:25:49+03:00</lastmod>
+  </url><url>
+    <loc>https://alxgrade.com/posts/second/</loc>
+    <lastmod>2021-07-07T09:25:49+03:00</lastmod>
+  </url><url>
+    <loc>https://alxgrade.com/tags/gamedev/</loc>
+    <lastmod>2021-07-07T08:58:05+03:00</lastmod>
+  </url><url>
+    <loc>https://alxgrade.com/tags/</loc>
+    <lastmod>2021-07-07T08:58:05+03:00</lastmod>
+  </url><url>
+    <loc>https://alxgrade.com/posts/testpost/</loc>
+    <lastmod>2021-07-07T08:58:05+03:00</lastmod>
   </url><url>
     <loc>https://alxgrade.com/categories/</loc>
   </url><url>
     <loc>https://alxgrade.com/series/</loc>
-  </url><url>
-    <loc>https://alxgrade.com/tags/</loc>
   </url>
 </urlset>
